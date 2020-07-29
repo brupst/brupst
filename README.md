@@ -4,13 +4,13 @@ Brupst is a Rustaceans open source community organization from Beijing Universit
 
 > Cheerleading any kind of inanimate object is silly.
 
-We do not want to provoke a dispute about programming language, nor do we advocate saying that "Rust is the best language in the world" ~~(If you really think so, it’s kind of acceptable)~~, we just hope we can do our part in the development of Rust, and let its advantages benefit more interesting souls and creativity.
+We do not want to provoke a dispute about programming language, nor do we advocate saying that "Rust is the best language in the world" ~~(If you really think so, it’s kind of acceptable)~~, we just hope we can do our part in the development of Rust, and let its advantages benefit more interesting souls and creativity. Let's promote the spirit of open source and make the world a better place!
 
 Brupst 是一个来自北京邮电大学的 Rustaceans 开源社区组织。如你所见，近些年 Rust 逐渐出现在公共视野，并以其高效，安全以及开放的社区而为人称道，越来越多的个人及组织开始关注 Rust 并委之以厚望，其中不乏[微软](https://msrc-blog.microsoft.com/2019/07/16/a-proactive-approach-to-more-secure-code/)这样的业界巨头。而我们的愿景便是借由此项目来帮助更多的开发者了解到 Rust，开始使用 Rust 并爱上 Rust。Linus Sebastian 曾在其节目里说过这样一句话：
 
 > Cheerleading any kind of inanimate object is silly. 为一切无生命的东西摇旗呐喊是愚蠢的。
 
-我们无意参加各类语言之争，也不倡导说出「Rust 是世界上最好的语言」这种言论 ~~（如果你发自真心这么觉得，倒也不是不可以）~~ ，我们只希望能在 Rust 发展的道路上尽自身一份绵薄之力，并让其优势惠及更多有趣的灵魂和创意
+我们无意参加各类语言之争，也不倡导说出「Rust 是世界上最好的语言」这种言论 ~~（如果你发自真心这么觉得，倒也不是不可以）~~ ，我们只希望能在 Rust 发展的道路上尽自身一份绵薄之力，并让其优势惠及更多有趣的灵魂和创意。同时宣扬开源精神，让这个世界变得更好！
 
 Brupst 这个名字来自于 [@RinChanNOW!](https://github.com/RinChanNOWWW) 和 [@imtsuki](https://github.com/imtsuki)，显而易见其为 Rust 和 BUPT 的杂糅体，虽略显粗暴，但主题明确，也足够有个性，故被~~随意地~~采用。
 
@@ -24,7 +24,9 @@ Brupst 这个名字来自于 [@RinChanNOW!](https://github.com/RinChanNOWWW) 和
 
 # 🙋 How to join 如何加入
 
-We don't want Brupst to become a titular organization. Everyone who wants to join should show your sincerity to Rust. So if you want to join Brupst, you may need to have a little work. The way to join us is as follows:
+Welcome everyone to join the Telegram group for discussion! Click here -> [Telegram Group of Brupst📮](https://t.me/joinchat/FBAuwRl6g6tSavEEq38VlA)
+
+Also, we don't want Brupst to become a titular organization. Everyone who wants to join should show your sincerity to Rust. So if you want to join Brupst, you may need to have a little work. The way to join us is as follows:
 
 1. Have at least one Rust-related public repo on GitHub.
 2. Request a PR to this project and add your name to [member-list.md](special-interest-groups/sig-community/member-list.md).
@@ -32,7 +34,9 @@ We don't want Brupst to become a titular organization. Everyone who wants to joi
 
 This rule is a temporary measure and may be changed in the future. Please follow on the newest content of this document.
 
-我们不希望 Brupst 沦为一个「挂名组织」，每一个加入者都应当对 Rust 怀有诚意。所以如果你想加入 Brupst，可能需要还一点点门槛。目前加入我们的途径如下：
+欢迎加入 Telegram 电报群组进行讨论！点这里 -> [Brupst 电报群组📮](https://t.me/joinchat/FBAuwRl6g6tSavEEq38VlA)
+
+同时，我们也不希望 Brupst 沦为一个「挂名组织」，每一个加入者都应当对 Rust 怀有诚意。所以如果你想加入 Brupst，可能需要还一点点门槛。目前加入我们的途径如下：
 
 1. 在 GitHub 上至少拥有一个 Rust 相关的公开 Repo。
 2. 向本项目提请 PR 将自己的名字加入到 [member-list.md](special-interest-groups/sig-community/member-list.md) 中。
