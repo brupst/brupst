@@ -16,25 +16,19 @@ Brupst 这个名字来自于 [@RinChanNOW!](https://github.com/RinChanNOWWW) 和
 
 # What we do 我们做什么
 
-* Promote Rust, its ecology and community.
-* Share Rust projects and exchange ideas.
-* May build our own Rust projects together in the future.
-* Anything you want to do about sharing and creating.
-* ......
-
-* 宣传 Rust，其生态以及社区。
-* 分享 Rust 项目并交流心得。
-* 也许在未来我们还能合作完成我们自己的 Rust 项目。
-* 一切关于分享和创造的事物。
+* Promote Rust, its ecology and community. 宣传 Rust，其生态以及社区。
+* Share Rust projects and exchange ideas. 分享 Rust 项目并交流心得。
+* May build our own Rust projects together in the future. 也许在未来我们还能合作完成我们自己的 Rust 项目。
+* Anything you want to do about sharing and creating. 一切关于分享和创造的事物。
 * ......
 
 # How to join 如何加入
 
-We don't want Brupst to become a titular organization. Everyone who joins should show your sincerity to Rust. So if you want to join Brupst, you may need to have a little work. The way to join us is as follows:
+We don't want Brupst to become a titular organization. Everyone who wants to join should show your sincerity to Rust. So if you want to join Brupst, you may need to have a little work. The way to join us is as follows:
 
 1. Have at least one Rust-related public repo on GitHub.
 2. Request a PR to this project and add your name to [member-list.md](special-interest-groups/sig-community/member-list.md).
-3. After obtaining LGTMs from at least one current organization member, you will be invited to join later. Please check your email at that time.
+3. After receiving LGTM(s) from at least one current organization member, you will be invited to join later. Please check your email at that time.
 
 This rule is a temporary measure and may be changed in the future. Please follow on the newest content of this document.
 
