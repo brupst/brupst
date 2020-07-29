@@ -22,6 +22,12 @@ Brupst 这个名字来自于 [@RinChanNOW!](https://github.com/RinChanNOWWW) 和
 * Anything you want to do about sharing and creating. 一切关于分享和创造的事物。
 * ......
 
+Here are some repos we are currently maintaining:
+
+这是一些我们现在正在维护的项目：
+
+* [awsome-bupt-rust](https://github.com/brupst/awsome-bupt-rust) — A curated list of Rust code and resources made from BUPT. 一份来自 BUPT 的精选 Rust 代码资源清单。
+
 # 🙋 How to join 如何加入
 
 Welcome everyone to join the Telegram group for discussion! Click here -> [Telegram Group of Brupst📮](https://t.me/joinchat/FBAuwRl6g6tSavEEq38VlA)
