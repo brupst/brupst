@@ -1,4 +1,4 @@
-# About Brupst 关于 Brupst
+# 🦀️ About Brupst 关于 Brupst
 
 Brupst is a Rustaceans open source community organization from Beijing University of Posts and Telecommunications. As you can see, Rust has gradually appeared in the public eye in recent years, and is known for its efficient, safe and open community. More and more individuals and organizations are paying attention to Rust and entrusting them with high hopes, such as industry giant [Microsoft](https://msrc-blog.microsoft.com/2019/07/16/a-proactive-approach-to-more-secure-code/). And our vision is to use this project to help more developers learn about Rust, start using Rust and fall in love with Rust. Linus Sebastian once said this sentence in his show:
 
@@ -14,7 +14,7 @@ Brupst 是一个来自北京邮电大学的 Rustaceans 开源社区组织。如�
 
 Brupst 这个名字来自于 [@RinChanNOW!](https://github.com/RinChanNOWWW) 和 [@imtsuki](https://github.com/imtsuki)，显而易见其为 Rust 和 BUPT 的杂糅体，虽略显粗暴，但主题明确，也足够有个性，故被~~随意地~~采用。
 
-# What we do 我们做什么
+# 🔨 What we do 我们做什么
 
 * Promote Rust, its ecology and community. 宣传 Rust，其生态以及社区。
 * Share Rust projects and exchange ideas. 分享 Rust 项目并交流心得。
@@ -22,7 +22,7 @@ Brupst 这个名字来自于 [@RinChanNOW!](https://github.com/RinChanNOWWW) 和
 * Anything you want to do about sharing and creating. 一切关于分享和创造的事物。
 * ......
 
-# How to join 如何加入
+# 🙋 How to join 如何加入
 
 We don't want Brupst to become a titular organization. Everyone who wants to join should show your sincerity to Rust. So if you want to join Brupst, you may need to have a little work. The way to join us is as follows:
 
@@ -39,3 +39,7 @@ This rule is a temporary measure and may be changed in the future. Please follow
 3. 获得至少一个现组织成员的 LGTM 后，稍后便会你发起加入邀请，届时请查收自己的邮箱。
 
 此规则为暂行办法，日后可能会有所变化，请以本文档内容为主。
+
+# 👭 Thanks to 鸣谢
+
+* [Hitrust](https://github.com/h1trust) Rustaceans from Harbin Institute of Technology 来自哈工大的朋友们
