@@ -2,7 +2,7 @@
 
 **NOTE**:
 
-* Last update time: 2020-07-29
+* Last update time: 2021-04-18
 
 ## SIG Members
 
@@ -11,3 +11,4 @@
 * [JmPotato](https://github.com/JmPotato)
 * [Name1e5s](https://github.com/name1e5s)
 * [deepmind](https://github.com/Jason210314)
+* [KernelErr](https://github.com/KernelErr)
